@@ -1,6 +1,8 @@
 # RiskManagementPlatform
 
-This project is the result of the hard work of the Risk Management Team in CSCI 2691/3691/4692.
+This project is the result of the hard work of the Risk Management Team in CSCI4691.
+
+https://risk-management-platform.web.app/
 
 ## Development server
 
